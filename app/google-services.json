@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16924552182",
+    "project_id": "callingapp-67a08",
+    "storage_bucket": "callingapp-67a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16924552182:android:8a993546dea96a575575d7",
+        "android_client_info": {
+          "package_name": "com.mnewspaper.callingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16924552182-csan623kilrceeiep1ot3r6hkd5pttdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWVZ5j1yOKtegTUJar4cn2swrbYdIgbr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16924552182-csan623kilrceeiep1ot3r6hkd5pttdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
